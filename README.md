@@ -6,3 +6,4 @@
  
 ## Articles that I helped write
 - [Coding Riddle of the Week](https://group.schindler.com/en/media/stories/coding-riddle-of-the-week.html)
+- [What if "if" would go missing?](https://group.schindler.com/en/media/stories/what-if-if-would-go-missing.html)
